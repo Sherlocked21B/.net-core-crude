@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/sherlock/.dotnet/store/|arch|/|tfm|",
+      "/home/sherlock/.nuget/packages"
+    ]
+  }
+}
